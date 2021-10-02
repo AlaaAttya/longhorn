@@ -194,7 +194,7 @@ ingress:
   tlsSecret: longhorn.local-tls
 
   ## If ingress is enabled you can set the default ingress path
-  ## then yo access the UI you can use the followig full path {{host}}+{{path}}
+  ## then you can access the UI by using the followig full path {{host}}+{{path}}
   path: /
 
   ## Ingress annotations done as key:value pairs
