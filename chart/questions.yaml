@@ -598,7 +598,7 @@ WARNING:
       description: "If ingress is enabled you can use this variable to set the default ingress path"
       type: string
       required: true
-      label: ingress path
+      label: Ingress Path
 - variable: service.ui.type
   default: "Rancher-Proxy"
   description: "Define Longhorn UI service type"
